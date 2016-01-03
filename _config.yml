@@ -1,29 +1,41 @@
-name: Visionar
-favicon: null
-layout_spectrum: 0.00918
-typography_spectrum: 0.50099
-title: Graphic design and website agency
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 1
+  saturation: 0
   brandColors:
     - '#3a3a3a'
     - '#ffffff'
     - '#00a5b5'
     - '#767676'
     - '#b1b1b1'
-  brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+title: Graphic design and website agency
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 1
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: Visionar
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.50099
