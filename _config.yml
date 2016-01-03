@@ -1,6 +1,6 @@
 name: Visionar
 favicon: null
-layout_spectrum: 0.99249
+layout_spectrum: 0.00918
 typography_spectrum: 0.22386
 title: Graphic design and website agency
 collections:
@@ -34,7 +34,7 @@ color:
     - '#19a6a3'
     - '#fff5cf'
     - '#1b1b1a'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
